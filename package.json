@@ -1,7 +1,7 @@
 {
   "name": "starbound-open-unsupported-files",
   "main": "./lib/open-unsupported-files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A slightly modified version of the open-unsupported-files made to help with starbound modding.",
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-open-unsupported-files",
