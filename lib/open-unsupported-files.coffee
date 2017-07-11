@@ -7,7 +7,7 @@ module.exports =
 
 	activate: ->
 		@extensions = atom.config.get('starbound-open-unsupported-files.extensions')?.split(',');
-		@imageExt = "png,jpg".split(',');
+		@imageExt = "png,jpg,bat".split(',');
 		{requirePackages} = require 'atom-utils'
 		requirePackages('tree-view').then ([treeView]) =>
 			if tv = treeView.treeView
