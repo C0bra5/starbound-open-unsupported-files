@@ -3,7 +3,7 @@ module.exports =
 		extensions:
 			title: 'extensions'
 			type: 'string'
-			default: 'doc,xls,ppt,docx,xlsx,pptx,pdf,rtf,zip,7z,rar,tar,gz,bz2,exe,bat,png,jpg,ogg,wav,vsd,vssx,sln,vsdx,jar,sh,ps1,sai,psd,gif,tiff,mkv,mp4,avi'
+			default: 'doc,xls,ppt,docx,xlsx,pptx,pdf,rtf,zip,7z,rar,tar,gz,bz2,exe,bat,png,jpg,ogg,wav,vsd,vssx,sln,vsdx,jar,sh,ps1,sai,psd,gif,tiff,mkv,mp4,avi,pdn,gal'
 
 	activate: ->
 		@extensions = atom.config.get('starbound-open-unsupported-files.extensions')?.split(',');
