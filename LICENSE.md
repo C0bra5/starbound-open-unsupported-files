@@ -1,4 +1,4 @@
-Copyright (c) 2017 Guillaume "C0bra5" Mercier
+Copyright (c) 2017-2020 Guillaume "C0bra5" Mercier
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
