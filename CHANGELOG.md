@@ -37,3 +37,6 @@
     the codebase of the original package.
   - Updated readme to reflect the previously mentioned change.
   - Updated licence to reflect current year.
+
+## 2.0.1
+- Fixed a typo in the readme.
