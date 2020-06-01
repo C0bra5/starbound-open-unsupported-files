@@ -1,5 +1,5 @@
 # **Starbound Modding Suite**: Open Unsupported Files
-This plugin allows atom to open specific "unsupported" file types using the your
+This plugin allows atom to open specific "unsupported" file types using your
 system's default application for that file type.
 
 # Usage
